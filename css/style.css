@@ -815,11 +815,52 @@ p {
   width: 64px;
   height: 64px;
 }
+
+#fh5co-menus .fh5co-food-menu h2.fh5co-bbq {
+  padding-left: 50px;
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-bbq:before {
+  background: url(../images/.png) no-repeat;
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  width: 72px;
+  height: 72px;
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-salat {
+  padding-left: 50px;
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-salat:before {
+  background: url(../images/.png) no-repeat;
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  width: 72px;
+  height: 72px;
+}
+
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-vtor {
+  padding-left: 50px;
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-vtor:before {
+  background: url(../images/.png) no-repeat;
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 0px;
+  width: 72px;
+  height: 72px;
+}
+
+
 #fh5co-menus .fh5co-food-menu h2.fh5co-dishes {
   padding-left: 80px;
 }
 #fh5co-menus .fh5co-food-menu h2.fh5co-dishes:before {
-  background: url(../images/0302-steak.png) no-repeat;
+  background: url(../images/) no-repeat;
   content: "";
   position: absolute;
   top: 0;
